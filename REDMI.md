@@ -1,4 +1,2 @@
 # first project
-hello amitesh
-hello atul
-hello mohan
+amitesh giri
